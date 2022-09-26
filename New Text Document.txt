@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-USER 1 ke modifications
-=======
-USER 2 ke modifications
->>>>>>> 060ff77c66dfe2d6cb5cdc059fc1cdfc1d7800b4
+#user1 modified
