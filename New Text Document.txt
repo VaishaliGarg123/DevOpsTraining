@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #user1 modified
-=======
-#user2 modified
 
->>>>>>> 4b83b0a2496ec364e7e839ce7a63e15d2e6d5dfb
